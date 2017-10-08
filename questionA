@@ -1,0 +1,20 @@
+Hi there! Here is a question that why is this chunk not working within problem A in the initially?
+
+“computute_area” (x, "shape_str") <- function(x) {
+  circle_area <- pi*x^x
+  circle_circum <- 2*pi*x
+  square_area <- x^x
+  square_circum <- 4*x}
+  { if "shape_str"="circle",{
+    return(circle_area, circle_circum)
+  }
+  else if "shape_str"="square"{
+    return(square_area, square_circum)
+  }
+}
+circ_ret(3, circle)
+
+
+
+
+Very appreciate for any kind help!><
